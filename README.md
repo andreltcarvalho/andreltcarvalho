@@ -3,7 +3,7 @@
 A software engineer passionate about development, music and dogs.
 
 - 🔭 I’m currently working as:
-    - A Java Backend developer
+    - Java Backend developer
       on [Eisa (Ericsson Inovação S.A)](https://www.linkedin.com/company/eisa-tecnologia/mycompany/).
     - FullStack web developer for [Fast Guichê](https://fastguiche.com.br/).
     - Freelancer Web Developer.
