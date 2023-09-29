@@ -10,7 +10,6 @@ A software engineer passionate about development, music and dogs.
 
 
 
-**If you find my work good, or if you want to work with me, consider texting or emailing me, it will be very nice!.**
 <hr>
 <p align="center">
    <i>A problem can be solved in a 100 different ways and There's always an easier way to solve a problem.</i>
